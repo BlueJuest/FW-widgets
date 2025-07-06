@@ -1,7 +1,7 @@
 {
     "title": "𝓦𝓲𝓭𝓰𝓮𝓽𝓼",
     "description": "𝒜 𝒸𝑜𝓁𝓁𝑒𝒸𝓉𝒾𝑜𝓃 𝑜𝒻 𝓌𝒾𝒹𝑔𝑒𝓉𝓈",
-    "icon": "https://raw.githubusercontent.com/quantumultxx/FW-Widgets/refs/heads/main/icon.png",
+    "icon": "https://github.com/BlueJuest/FW-widgets/blob/main/icon.jpg",
     "widgets": [
         {
             "id": "douban",
